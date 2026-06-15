@@ -1,6 +1,6 @@
-package com.schoolmangment.ui;
+package com.schoolmanagement.ui;
 
-import com.schoolmangment.ui.db.DatabaseConnection;
+import com.schoolmanagement.ui.db.DatabaseConnection;
 
 public class TestConnection {
     public static void main(String[] args) {

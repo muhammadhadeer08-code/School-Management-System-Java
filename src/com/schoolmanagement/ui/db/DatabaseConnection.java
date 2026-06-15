@@ -1,4 +1,4 @@
-package com.schoolmangment.ui.db;
+package com.schoolmanagement.ui.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
